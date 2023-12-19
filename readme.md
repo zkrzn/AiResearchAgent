@@ -17,7 +17,6 @@ To set up the project, follow these steps:
    BROWSERLESS_API_KEY=<your_browserless_api_key>
    SERP_API_KEY=<your_serp_api_key>
    HUGGINGFACEHUB_API_TOKEN=<your_huggingfacehub_api_token>
-   
    ```
 
 3. Run the application using the following command:
@@ -53,5 +52,3 @@ When using the AI research agent, please adhere to the following guidelines:
 6. Remember to include all reference data and links in the final research output.
 
 Please note that the AI research agent aims to provide data-backed results but relies on the available information and tools. It is essential to critically evaluate the generated responses and verify the information independently.
-
-We hope this AI research agent proves helpful in your research endeavors!
