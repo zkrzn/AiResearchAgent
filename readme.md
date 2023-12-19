@@ -9,10 +9,10 @@ To set up the project, follow these steps:
 1. Install the required dependencies by running the following command:
    ````
    pip install -r requirements.txt
- ````
+   ````
 
 2. Set up the environment variables by creating a `.env` file and adding the following variables:
-   ````python
+   ````
    OPENAI_API_KEY=<your_openai_api_key>
    BROWSERLESS_API_KEY=<your_browserless_api_key>
    SERP_API_KEY=<your_serp_api_key>
@@ -20,9 +20,9 @@ To set up the project, follow these steps:
     ````
 
 3. Run the application using the following command:
-   ````python
+   ````
    streamlit run main.py
- ````
+   ````
 
 ## Tools
 
